@@ -1,2 +1,3 @@
 # hello-world
-Attempting to code
+
+This is to track my journey of learning how to code using Python.
